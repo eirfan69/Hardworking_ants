@@ -1,7 +1,4 @@
 Halo
 hehehe
 
-<<<<<<< HEAD
-haiii
-=======
->>>>>>> 032e245a2abbd04a8613855bae6d7504d6045f69
+top G
